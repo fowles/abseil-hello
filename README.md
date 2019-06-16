@@ -3,18 +3,23 @@
 Make sure that [Bazel is installed](https://docs.bazel.build/versions/master/install.html)
 on your system.
 
-Then build and run the example
+Grab this repo
 
 ```bash
 $ git clone --branch bazel https://github.com/abseil/abseil-hello abseil-hello
 ...
 $ cd abseil-hello
+```
+
+Build and run the example
+
+```bash
 $ bazel run //:hello_main -- Bazel
 ...
 Hello Bazel
 ```
 
-To run the tests
+Build and run the test
 
 ```bash
 $ bazel test //:hello_test
