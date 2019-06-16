@@ -1,4 +1,2 @@
-bazel-hello/bazel-*
-cmake-hello/build/**
-!cmake-hello/build/README
+bazel-*
 **/.DS_Store
