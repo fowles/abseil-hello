@@ -3,7 +3,7 @@
 ## Bazel ##
 
 For using Abseil with the [Bazel](http://www.bazel.io) buildsystem,
-see bazel-hello.
+use the bazel branch.
 
 Checkout the bazel branch and follow the readme there.
 
@@ -21,7 +21,7 @@ $ git checkout bazel
 ## CMake ##
 
 For using Abseil with the [CMake](https://cmake.org/) meta-buildsystem,
-see cmake-hello.
+use the cmake branch.
 
 Checkout the cmake branch and follow the readme there.
 
