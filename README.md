@@ -8,6 +8,7 @@ Grab this repo and initialize the subrepos for abseil and googletest.
 ```bash
 $ git clone --branch cmake https://github.com/abseil/abseil-hello abseil-hello
 ...
+$ cd abseil-hello
 $ git submodule update --init
 ...
 ```
